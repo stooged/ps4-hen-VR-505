@@ -1,10 +1,16 @@
 # PS4HEN
 Homebrew enabler for PS4
 
-## Contributors
-Massive credits to the following:
+for 5.05 
 
-- [Flatz](https://twitter.com/flat_z)
-- [idc](https://twitter.com/3226_2143)
-- [Joon](https://twitter.com/joonie86)
-- Anonymous
+hen 1.8 patches by zecoxao and VR Enable Patch
+
+the original hen code by xVortex can be found here: https://github.com/xvortex/ps4-hen-vtx
+
+
+
+
+
+
+
+
